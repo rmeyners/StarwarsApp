@@ -1,7 +1,7 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "Heroku Deployement Test",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -13,5 +13,14 @@
     "start": "node server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmeyners/StarwarsApp.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/rmeyners/StarwarsApp/issues"
+  },
+  "homepage": "https://github.com/rmeyners/StarwarsApp#readme"
 }
